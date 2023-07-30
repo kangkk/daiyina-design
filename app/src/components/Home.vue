@@ -37,4 +37,7 @@ p {
   padding-top: 50px;
   border-bottom: 1px dashed #c6c6c6;
 }
+.hello {
+  min-width: 300px;
+}
 </style>
